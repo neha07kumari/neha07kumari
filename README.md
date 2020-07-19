@@ -6,4 +6,4 @@
 - 🔍 Experimenting with: Python
 - 😜 Believes in: Eat🍨 Code👩‍💻 Sleep😪 Repeat
 - 👩 Pronoun: She/Her
-
+- 😊  Enjoyes: CSS art.
