@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 2911nehakumari@gmail.com
 - 🔍 Experimenting with: Python
 - 😜 Believes in: Eat🍨 Code👩‍💻 Sleep😪 Repeat
+- 👩 Pronoun: She/Her
 
-#Feel free to contact me: 2911nehakumari@gmail.com
