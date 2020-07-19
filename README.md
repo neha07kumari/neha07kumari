@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**neha07kumari/neha07kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hii there
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning JavaScript and also thinking to go for React.
