@@ -17,7 +17,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/neha-kumari-09415a16b/" title="LinkedIn Profile"><img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/Neha_kumari_7" title="Twitter Profile"><img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"> HackerRank</a></code>
+  <code><a href="https://twitter.com/Neha_kumari_7" title="Twitter Profile"><img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"> Twitter</a></code>
   <code><a href="https://www.instagram.com/neha7_kashyap/" title="Instagram Profile"><img width="22" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"> Instagram</a></code>
 </h5>
 <br>
@@ -32,7 +32,9 @@
   <br>
   📫 How to reach me: <a href="mailto: 2211nehakumari@gmail.com">2211nehakumari@gmail.com</a>
 </p>
-
+<br>
+<h2 align="center">Know more about me 👉 [Website]("https://neha07kumari.github.io/portfolio_v1/") </h2>
+<br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
