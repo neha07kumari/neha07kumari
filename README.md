@@ -90,9 +90,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=neha07kumari&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+<br>
 
-<align="center">
-##                                 Know more about me 👉 [Website](https://neha07kumari.github.io/portfolio_v1/) 
+<h6 align="center">Know more about me 👉 <a href="https://neha07kumari.github.io/portfolio_v1/" title="Website"> </h6>
 
 
 
