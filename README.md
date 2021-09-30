@@ -33,8 +33,6 @@
   📫 How to reach me: <a href="mailto: 2211nehakumari@gmail.com">2211nehakumari@gmail.com</a>
 </p>
 <br>
-## * Know more about me 👉 [Website](https://neha07kumari.github.io/portfolio_v1/) 
-<br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -93,7 +91,7 @@
   <br>
 </p>
 
-
+## * Know more about me 👉 [Website](https://neha07kumari.github.io/portfolio_v1/) 
 
 
 
