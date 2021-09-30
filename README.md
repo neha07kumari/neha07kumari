@@ -92,7 +92,7 @@
 </p>
 <br>
 
-<h6 align="center">Know more about me 👉 <a href="https://neha07kumari.github.io/portfolio_v1/" title="Website"> </h6>
+<h1 align="center">Know more about me 👉 <a href="https://neha07kumari.github.io/portfolio_v1/" title="Website"> </h1>
 
 
 
