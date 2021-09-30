@@ -26,8 +26,6 @@
   <br>
   🔬 I'm currently pursuing Bachelor of Technology from Birla Institute Of Technology, Mesra , India.
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
   📚 I’m currently exploring more in Data Science Field.
   <br>
   💬 Ask me anything about from <a href="https://github.com/neha07kumari/neha07kumari/issues" title="Issues">Here</a>
@@ -39,7 +37,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></code>
   <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
@@ -108,7 +106,7 @@
     
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=neha07kumari&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=neha07kumari&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,Python,C++,HTML,CSS,JavaScript">
+<!--  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=neha07kumari&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,Python,C++,HTML,CSS,JavaScript">-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=neha07kumari&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
