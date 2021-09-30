@@ -91,7 +91,7 @@
   <br>
 </p>
 
-## * Know more about me 👉 [Website](https://neha07kumari.github.io/portfolio_v1/) 
+##                                 Know more about me 👉 [Website](https://neha07kumari.github.io/portfolio_v1/) 
 
 
 
