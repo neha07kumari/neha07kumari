@@ -28,7 +28,7 @@
   <br>
   👩‍💻 Currently working as a Data Scientist.
   <br>
-  😁 Also trying my hands on freelancing. Would be happy if you'll <a href="https://neh22kumari.gumroad.com/">support me</a>
+  😁 Also trying my hands on Digital Art. Would be happy if you'll <a href="https://neh22kumari.gumroad.com/">support me</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/neha07kumari/neha07kumari/issues" title="Issues">Here</a>
   <br>
