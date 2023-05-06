@@ -24,9 +24,11 @@
 <p align="center">
   Hii, I'm Neha Kumari a Final year Computer Science student.
   <br>
-  🔬 I'm currently pursuing Bachelor of Technology from Birla Institute Of Technology, Mesra , India.
+  🔬Completed my Bachelor's from Birla Institute Of Technology, Mesra , India.
   <br>
-  📚 I’m currently exploring more in Data Science Field.
+  👩‍💻 Currently working as a Data Scientist.
+  <br>
+  😁 Also trying my hands on freelancing. Would be happy if you'll <a href="https://neh22kumari.gumroad.com/">support me</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/neha07kumari/neha07kumari/issues" title="Issues">Here</a>
   <br>
