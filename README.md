@@ -22,11 +22,9 @@
 </h5>
 <br>
 <p align="center">
-  Hii, I'm Neha Kumari a Final year Computer Science student.
+  Hii, I'm Neha Kumari a Data Scientist.
   <br>
   🔬Completed my Bachelor's from Birla Institute Of Technology, Mesra , India.
-  <br>
-  👩‍💻 Currently working as a Data Scientist.
   <br>
   😁 Also trying my hands on Digital Art. Would be happy if you'll <a href="https://neh22kumari.gumroad.com/">support me</a>
   <br>
